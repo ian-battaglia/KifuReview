@@ -7,6 +7,6 @@ public_folder: "/uploads"
 
 collections:
    - name: "posts"
-    label: "Posts"
+    label: "posts"
     folder: "content/posts"
     slug: "{{year}}-{{slug}}"
