@@ -6,8 +6,7 @@ media_folder: "static/uploads"
 public_folder: "/uploads"
 
 collections:
-   - name: "stories"
-    label: "Stories"
-    folder: "content/stories"
+   - name: "posts"
+    label: "Posts"
+    folder: "content/posts"
     slug: "{{year}}-{{slug}}"
-    
