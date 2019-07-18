@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on The Kifu Review</title>
+    <link>http://www.thekifureview.com/posts/</link>
+    <description>Recent content in Posts on The Kifu Review</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 18 Jul 2019 14:01:05 -0500</lastBuildDate>
+    
+	<atom:link href="http://www.thekifureview.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Dust.</title>
+      <link>http://www.thekifureview.com/posts/my_first_post/</link>
+      <pubDate>Thu, 18 Jul 2019 14:01:05 -0500</pubDate>
+      
+      <guid>http://www.thekifureview.com/posts/my_first_post/</guid>
+      <description>It had been a pleasant building. When it had been build, maybe in the 20s or 30s, chances are it had been the tallest building for blocks. A stone sentinel for the neighborhood. Now its art deco charm sat below modern steel and glass behemoths.
+It was a cold Summer day, at least by that Summer’s standards. The sun cast hard light down and there wasn’t a cloud in the sky for shade.</description>
+    </item>
+    
+  </channel>
+</rss>
