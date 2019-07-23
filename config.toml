@@ -2,3 +2,5 @@ baseURL = "http://www.thekifureview.com/"
 theme = "tale"
 languageCode = "en-us"
 title = "The Kifu Review"
+
+paginate = 11
